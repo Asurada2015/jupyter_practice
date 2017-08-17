@@ -340,4 +340,5 @@ gantt
         Add to mermaid                      :1d
     ```
     
-    ### 参考资料[有道云笔记Markdown教程](http://note.youdao.com/iyoudao/?p=2411)
+ ### 参考资料
+ [有道云笔记Markdown教程](http://note.youdao.com/iyoudao/?p=2411)
