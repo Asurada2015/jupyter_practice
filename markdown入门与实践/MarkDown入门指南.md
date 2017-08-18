@@ -125,7 +125,6 @@ E = mc^2
 ---
 ```
 
-
 # 链接与图片
 ### 链接
 ```
@@ -152,9 +151,11 @@ E = mc^2
 ***
 [My Blog](https://home.cnblogs.com/u/cloud-ken/)
 
-# 表格
-当你需要在Markdown中键入表格
-![插入表格](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-6%E8%A1%A8%E6%A0%BC.png)
+# 表格  
+当你需要在Markdown中键入表格  
+
+![插入表格](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-6%E8%A1%A8%E6%A0%BC.png)  
+
 参考
 ![image](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-6-7.png)
 
@@ -194,7 +195,8 @@ RL - right left（从右到左）
 LR - left right（从左到右）
 
 ### 简单示例
-#### 自上而下
+#### 自上而下  
+
 ```
 graph TB
 A-->B
@@ -211,6 +213,7 @@ A-->B
     ```
     graph BT
     A-->B
+
     ```
 #### 自左向右
 ```
